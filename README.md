@@ -39,10 +39,10 @@
 
 
 ###블록(block) 코드 강조
-'''java
-   public class Exam
-      public static void main(String[] args){
-         System.out.println("exam");
+'''java   
+   public class Exam{      
+      public static void main(String[] args){   
+         System.out.println("exam");   
       }
 }
 '''
