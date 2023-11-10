@@ -39,7 +39,7 @@
 
 
 
-###블록(block) 코드 강조
+### 블록(block) 코드 강조
 '''java   
    public class Exam{      
       public static void main(String[] args){   
@@ -59,6 +59,20 @@
 >타인의 말이나 문장을 직접 또는 간접으로 가져온다.
 >>인용문1
 >>>인용문2
+
+###수평선(Horizenta Rule)
+각 기호를 3개 이상 입력하면 된다.
+---
+(Hyphens)
+***
+(Asterisks)
+___
+(Underscores)
+
+### 줄바꿈(line breaks)
+바다<br>
+하늘   <!--띄어쓰기 2번이상>
+구름
 
 
 
