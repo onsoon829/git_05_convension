@@ -32,7 +32,7 @@
 
 [![구글](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
 
-![가방]((https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_8223960%2F82239600497.jpg&type=f372_372)
+![가방](https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_8223960%2F82239600497.jpg&type=f372_372)
 
 ###인라인(inline) 코드 강조
 '백티1개'는 '인라인 코드 강조'를 의미한다.
