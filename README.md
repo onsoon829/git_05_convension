@@ -30,3 +30,22 @@
 ![김민재](https://search.pstatic.net/common?type=b&size=216&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F1%2F202206281819545621.png)
 
 [![구글](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
+
+![가방](./asset/bag.jpeg)
+
+###인라인(inline) 코드 강조
+'백티1개'는 '인라인 코드 강조'를 의미한다.
+
+
+
+###블록(block) 코드 강조
+'''java
+   public class Exam
+      public static void main(String[] args){
+         System.out.println("exam");
+      }
+}
+'''
+
+   
+
