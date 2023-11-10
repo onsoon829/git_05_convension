@@ -27,12 +27,12 @@
 [구글홈페이지]<https://www.google.com>   
 [네이버홈페이지]<https://www.naver.com>   
 
-###이미지(Image)
+###이미지(Image)   
 ![김민재](https://search.pstatic.net/common?type=b&size=216&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F1%2F202206281819545621.png)
 
 [![구글](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com)
 
-![가방](./asset/bag.jpeg)
+![가방]((https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_8223960%2F82239600497.jpg&type=f372_372)
 
 ###인라인(inline) 코드 강조
 '백티1개'는 '인라인 코드 강조'를 의미한다.
